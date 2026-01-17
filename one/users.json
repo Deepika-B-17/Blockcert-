@@ -1,0 +1,20 @@
+{
+    "deepgirija8@gmail.com": {
+        "password": "$2b$12$E5bZ21pDeq.mjHtFDu1hseeCfe.L5uVHTgjJ9zrOLh6RB8E2xwY7i",
+        "role": "institution",
+        "name": "DiAb",
+        "reg_id": "20230808",
+        "student_id": "",
+        "totp_secret": "OGAHU6FESWSO5UMF3TTHXHMMIR6RSD4P",
+        "2fa_enabled": true
+    },
+    "deepikagirija4@gmail.com": {
+        "password": "$2b$12$fbP/Cjwuh7jXIcjkGk5jxufDFmsqbIN7oUzG.y7AfUysNhko973gy",
+        "role": "institution",
+        "name": "girijs",
+        "reg_id": "20230806",
+        "student_id": "",
+        "totp_secret": "YLUJR6PB7HR2PQGYBKZHOVHY6D3JPT36",
+        "2fa_enabled": true
+    }
+}
